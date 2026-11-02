@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+# İmza anahtarları asla depoya girmez
+*.jks
+*.keystore
+keystore/
+keystore-base64.txt

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bildirim çubuğu için tek renkli pasta simgesi -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,2 C13.4,3.7 13.8,5 12,6.4 C10.2,5 10.6,3.7 12,2 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,7 H13 V10 H11 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,10 H18 V14 H6 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4,14.5 H20 V20 H4 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M2.5,20.5 H21.5 V22 H2.5 Z" />
+</vector>

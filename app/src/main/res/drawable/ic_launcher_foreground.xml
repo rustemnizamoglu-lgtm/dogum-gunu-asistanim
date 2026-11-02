@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Takvim + doğum günü pastası simgesi (108dp adaptif ön plan) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Takvim gövdesi -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,30 H75 A6,6 0 0 1 81,36 V78 A6,6 0 0 1 75,84 H33 A6,6 0 0 1 27,78 V36 A6,6 0 0 1 33,30 Z" />
+    <!-- Takvim başlık şeridi -->
+    <path
+        android:fillColor="#264653"
+        android:pathData="M33,30 H75 A6,6 0 0 1 81,36 V44 H27 V36 A6,6 0 0 1 33,30 Z" />
+    <!-- Takvim halkaları -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M39,25 H43 V34 H39 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M65,25 H69 V34 H65 Z" />
+    <!-- Mum alevi -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M54,47 C56.2,49.4 56.6,51 54,52.6 C51.4,51 51.8,49.4 54,47 Z" />
+    <!-- Mum -->
+    <path
+        android:fillColor="#2A9D8F"
+        android:pathData="M53,53 H55 V59 H53 Z" />
+    <!-- Pasta üst kat -->
+    <path
+        android:fillColor="#F4A6B7"
+        android:pathData="M41,59 H67 V67 H41 Z" />
+    <!-- Pasta alt kat -->
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M36,67 H72 V76 H36 Z" />
+    <!-- Tabak -->
+    <path
+        android:fillColor="#264653"
+        android:pathData="M33,76 H75 V78.5 H33 Z" />
+</vector>
